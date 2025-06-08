@@ -14,7 +14,7 @@ It explores trends over time, identifies the most and least profitable products,
 - Understand customer segments by contribution  
 - Enable data-driven decision-making for growth  
 
----
+
 
 ## Why This Project is Useful  
 In today's competitive landscape, understanding historical performance and customer behavior is essential. This project provides insights that:
@@ -24,32 +24,37 @@ In today's competitive landscape, understanding historical performance and custo
 - Support customer retention and segment diversification  
 - Influence pricing, inventory, and marketing strategy  
 
----
 
 ## Key Findings  
 
-### Significant Year-over-Year Growth  
+- **Significant Year-over-Year Growth**
+  
 Sales rose by 47.16% to $2.33M, while profit increased by 48.85% to $292.3K, demonstrating overall business health and growth momentum.
 
-### Decline in Return Rates  
+- **Decline in Return Rates**
+  
 Returned orders dropped from 8.74% to 5.79%, reflecting improved customer satisfaction and operational efficiency.
 
-### Uneven Regional Sales  
+- **Uneven Regional Sales**
+  
 The United States generated $2.29M in sales, compared to just $29.33K from Canada—highlighting a major disparity in market reach.
 
-### Technology Category Drives Profit  
+- **Technology Category Drives Profit**
+  
 Copiers and Phones emerged as top-performing products, contributing significantly to profitability.
 
-### High Dependency on Top Customers  
+- **High Dependency on Top Customers**
+  
 Five major customers contributed over $80K in revenue, indicating reliance on a small group of high-value clients.
 
-### Consumer Segment Leads in Volume  
+- **Consumer Segment Leads in Volume**
+  
 This segment accounted for 80.15% of all units sold, reaffirming its role as the primary market driver.
 
-### Regional Performance Disparities and Opportunities
+- **Regional Performance Disparities and Opportunities**
+  
 While the East region experienced impressive 116.67% year-over-year growth in Furniture sales, the Central region showed no growth at all, highlighting a need for targeted intervention. In contrast, the West region demonstrated exceptional performance in the Technology category, with sales skyrocketing from $959.88 to $20,236.89, a staggering 2008.35% increase, indicating highly successful regional execution and market alignment.
 
----
 
 ## Actionable Recommendations
 
@@ -81,27 +86,19 @@ Investigate regional factors impacting Furniture sales and deploy corrective str
 
 - **Monitor and Reduce Return Rates**  
 Maintain focus on reducing return rates through improved product descriptions and quality control.
----
 
-## 💬 Final Thoughts  
+
+## Final Thoughts  
 This project demonstrates how year-over-year performance analytics can shape smarter strategies. By leveraging sales and segment insights, businesses can scale effectively, improve customer satisfaction, and boost profit.
 
 **Data-driven decision-making is the key to sustainable retail success.**
 
----
-
-## Maintainer  
-**Felix Asibor**  
-Data Analyst passionate about uncovering insights that drive business success.  
-Specializes in sales analysis, customer behavior, and market trends.
-
----
 
 ## Contact  
 For feedback or questions, reach out at:  
 📧 **asiborfelix@gmail.com**
 
----
+
 
 > Feel free to fork, contribute, or open issues to suggest improvements!
 
